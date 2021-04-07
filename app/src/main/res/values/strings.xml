@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atv 3</string>
+    <string name="ola">Atividade 3</string>
+    <string name="welcome">Bem-Vindo</string>
+    <string name="acessar">Acessar:</string>
+    <string name="bt_login">Fazer login</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="bt_splash">Voltar para tela inicial</string>
+</resources>
